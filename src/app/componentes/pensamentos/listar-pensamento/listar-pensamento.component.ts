@@ -20,8 +20,8 @@ export class ListarPensamentoComponent implements OnInit {
       modelo: 'modelo2'
     },
     {
-      conteudo: 'Comunicação entre Componente',
-      autoria: 'Bárbara',
+      conteudo: 'Quanto maior se é, mais repetido se é. Platão, Aristóteles, Kant, quantos outros. Ainda se não calaram nos que deles falaram. E é possível que só se calem quando a espécie humana se calar Quanto maior se é, mais repetido se é. Platão, Aristóteles, Kant, quantos outros. Ainda se não calaram nos que deles falaram. E é possível que só se calem quando a espécie humana se calar.',
+      autoria: 'Vergílio Ferreira',
       modelo: 'modelo3'
     }
   ]
