@@ -12,9 +12,9 @@
   }
   
   .cabecalho .logo img {
-    width: 90%;
-    max-width: 350px;
-    margin-bottom: 2rem;
+    width: 80%;
+    max-width: 280px;
+    margin-bottom: .5rem;
   }
   
   .cabecalho .imagem{
