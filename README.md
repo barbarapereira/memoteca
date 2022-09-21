@@ -1,27 +1,29 @@
-# Memoteca
+![1-removebg-preview (1)](https://user-images.githubusercontent.com/38231311/191390238-92ee7bc8-557d-4fc4-9e3b-c1d1cbbab041.png)
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.3.
+# Memoteca
+Mural de pensamentos criado para armanezar frases, citações de livros, trechos de música para usar nas suas postagens e mensagens
+
+Adicione, edite e exclua suas lembranças:
+[memoteca.vercel.app](https://memoteca.vercel.app/listarPensamento)
+
+## Tecnologias Utilizadas
+- Angular 14
+- HTML 5
+- CSS 3
+- TypeScript
+- JSon Server
+
+## Requisitos
+- Ter instalado:
+  - Node - atualmente a versão utilizada é a 16.14.2
+  - [Angular CLI](https://github.com/angular/angular-cli) version 14.2.3
+  - NPM - atualmente na versão 8.5.0
+  - Json Server para criar o backend
+
+
+
 
 ## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Rode o comando `ng serve` para inicializar o servidor. Navege através da url: `http://localhost:4200/`. A aplicação irá atualizar automativamente, ao fazer qualquer alteração no código.
 
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
