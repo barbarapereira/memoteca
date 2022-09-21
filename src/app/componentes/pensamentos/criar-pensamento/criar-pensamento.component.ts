@@ -27,7 +27,7 @@ export class CriarPensamentoComponent implements OnInit {
       this.router.navigate(['/listarPensamento'])
     })
   }
-  cancelarPensamento() {
+  cancelar() {
     this.router.navigate(['/listarPensamento'])
   }
 }

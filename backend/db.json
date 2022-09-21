@@ -2,42 +2,15 @@
   "pensamentos": [
     {
       "id": 1,
-      "conteudo": "Que bom que você veio",
-      "autoria": "Dev Alura",
-      "modelo": "modelo1"
-    },
-    {
-      "id": 2,
-      "conteudo": "Olá novamente, estude Angular",
-      "autoria": "Programadora",
-      "modelo": "modelo2"
-    },
-    {
-      "id": 3,
       "conteudo": "Não desanima, com o tempo, tudo vai fazer sentido",
       "autoria": "Babi",
-      "modelo": "modelo3"
-    },
-    {
-      "conteudo": "Passo informações para o componente filho",
-      "autoria": "Componente Pai",
-      "modelo": "modelo1"
-    },
-    {
-      "conteudo": "Minha propriedade é decorada com @Input()",
-      "autoria": "Componente filho",
       "modelo": "modelo2"
     },
     {
-      "conteudo": "Quanto maior se é, mais repetido se é. Platão, Aristóteles, Kant, quantos outros. Ainda se não calaram nos que deles falaram. E é possível que só se calem quando a espécie humana se calar Quanto maior se é, mais repetido se é. Platão, Aristóteles, Kant, quantos outros. Ainda se não calaram nos que deles falaram. E é possível que só se calem quando a espécie humana se calar.",
-      "autoria": "Vergílio Ferreira",
-      "modelo": "modelo3"
-    },
-    {
-      "conteudo": "Pensamento teste 123",
-      "autoria": "Dev Angular",
-      "modelo": "modelo3",
-      "id": 4
+      "conteudo": "Nunca desista de estudar. tudo vai fazer mais sentido",
+      "autoria": "Eu Dev! --Editado",
+      "modelo": "modelo1",
+      "id": 2
     }
   ]
 }
